@@ -12,6 +12,7 @@ This project demonstrates how to:
 ## 🛠 Steps
 
 1.Build Docker Image
+
 docker build -t <dockerhub-username>/my-webapp:v1 .
 
 2. Push to DockerHub
